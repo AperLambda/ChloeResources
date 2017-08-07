@@ -1,2 +1,2 @@
 echo "Exporting resources..."
-cp -rv system/ ..
+cp -rvf system/ ..
