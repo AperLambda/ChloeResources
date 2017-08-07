@@ -1,0 +1,19 @@
+{
+    "lang": "English (US)",
+    "undefined": "Undefined",
+    "404": "404 not found",
+    "about": {
+        "author": "Author",
+        "authors": "Authors",
+        "version": "Version",
+        "watchdog": {
+            "cpu_usage": "CPU usage",
+            "memory_usage": ":ram: Memory usage"
+        }
+    },
+    "errors": {
+        "permissions": {
+            "denied": "Permission denied."
+        }
+    }
+}

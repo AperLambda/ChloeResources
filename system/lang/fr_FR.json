@@ -1,0 +1,19 @@
+{
+    "lang": "Français (France)",
+    "undefined": "Non définit",
+    "404": "404 not found",
+    "about": {
+        "author": "Auteur",
+        "authors": "Auteurs",
+        "version": "Version",
+        "watchdog": {
+            "cpu_usage": "Utilisation CPU",
+            "memory_usage": ":ram: Mémoire utilisée"
+        }
+    },
+    "errors": {
+        "permissions": {
+            "denied": "Permission refusée."
+        }
+    }
+}
